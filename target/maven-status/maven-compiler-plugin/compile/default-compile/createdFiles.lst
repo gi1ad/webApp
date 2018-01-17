@@ -1,0 +1,5 @@
+domain\News.class
+servlets\AdminServlet.class
+servlets\MainServlet.class
+servlets\NewsServlet.class
+controllers\MainController.class
